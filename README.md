@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kami</h1>
 <h3 align="center">Just a student from Russia.</h3>
 
-- 🔭 I’m currently working on [**learning rust**](https://github.com/kam1xgod/learning_rust_roadmap) and [**learning web development**](https://github.com/kam1xgod/learning_web_dev)
+- 🔭 I’m currently working on **everything.**)
 
-- 🌱 I’m currently learning **rust lang.**
+- 🌱 I’m currently learning [**learning rust**](https://github.com/kam1xgod/learning_rust_roadmap) and [**learning web development**](https://github.com/kam1xgod/learning_web_dev)
 
 - 📫 How to reach me **tg: @kam1xgod**
 
