@@ -29,4 +29,4 @@
 <h3 align="left">In plans:</h3>
 
 - Add "proper" README.md to all repositories where it contains only one line or few sentences.
-- Restore some repos that I lost.
+- Restore some repos I've lost.
