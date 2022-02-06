@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **everything.**)
 
-- 🌱 I’m currently learning [**Rust**](https://github.com/kam1xgod/learning_rust_roadmap) and [**Web Development**](https://github.com/kam1xgod/learning_web_dev)
+- 🌱 I’m currently learning [**Rust (paused)**](https://github.com/kam1xgod/learning_rust_roadmap) and [**Web Development (React rn)**](https://github.com/kam1xgod/learning_web_dev)
 
 - 📫 How to reach me **tg: @kam1xgod**
 
