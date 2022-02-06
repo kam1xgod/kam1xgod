@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: **Idk why you got here.**
 
-- 🐀 If you want to know more [about me](https://affectionate-benz-e7d220.netlify.app/)
+- 🐀 If you want to know more [about me](https://kamixtrash.netlify.app/)
 
 <h5 align="right">Some of my project was lost, because of changing distros, but eventually I will return them.</br>Also, few of my personal repositories are private. Just want you to know.</h5>
 
