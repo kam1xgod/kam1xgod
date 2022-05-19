@@ -12,6 +12,8 @@
 
 - 🐀 If you want to know more [about me](https://kamixtrash.netlify.app/)
 
+- 💀 Last made project: [Online banking](https://github.com/kam1xgod/sbt_finalProject)
+
 <h5 align="right">Some of my project was lost, because of changing distros, but eventually I will return them.</br>Also, few of my personal repositories are private. Just want you to know.</h5>
 
 <h3 align="left">Languages and Tools:</h3>
