@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/38/d3/0e/38d30ecfe41c21551c043443d330d637.gif" alt="">
 <h3 align="center">Just a student from Russia.</h3>
 
-- 🔭 I’m currently working on **finding job (why HRs are so.. nevermind.**
+- 🔭 I’m currently working on **finding job (why HRs are so.. nevermind).**
 
 - 🌱 I’m currently learning [**Rust (paused)**](https://github.com/kam1xgod/learning_rust_roadmap) and [**Web Development (React rn)**](https://github.com/kam1xgod/learning_web_dev)
 
