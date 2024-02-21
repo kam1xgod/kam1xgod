@@ -14,8 +14,6 @@
 
 - 💀 Last made project: [Online banking](https://github.com/kam1xgod/kittyBank)
 
-<h5 align="right">Some of my project was lost, because of changing distros, but eventually I will return them.</br>Also, few of my personal repositories are private. Just want you to know.</h5>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -28,7 +26,3 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
-<h3 align="left">In plans:</h3>
-
-- Add "proper" README.md to all repositories where it contains only one line or few sentences.
-- Restore some repos I've lost.
