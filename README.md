@@ -1,18 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kami</h1>
 <img src="https://i.pinimg.com/originals/38/d3/0e/38d30ecfe41c21551c043443d330d637.gif" alt="">
-<h3 align="center">Just a student from Russia.</h3>
-
-- 🔭 I’m currently working on **finding job.**
-
-- 🌱 I’m currently learning [**Rust (paused)**](https://github.com/kam1xgod/learning_rust_roadmap) and [**Web Development (React rn)**](https://github.com/kam1xgod/learning_web_dev)
-
-- 📫 How to reach me **tg: @kam1xgod**
+<h3 align="center">Just a guy.</h3>
 
 - ⚡ Fun fact: **Idk why you got here.**
-
-- 🐀 If you want to know more [about me](https://kamixtrash.netlify.app/)
-
-- 💀 Last made project: [Online banking](https://github.com/kam1xgod/kittyBank)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
